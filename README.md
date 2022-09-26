@@ -2,7 +2,7 @@
 
 #### Sou programdor Fron-end. 
 
-- 🌱 Atualmente estou HTML, CSS, React, JavaScript
+- 🌱 Atualmente estou aprendendo as seguintes linguagens de programação: HTML, CSS, React, JavaScript
 - 🔭 Atualmente estou em busca de oportunidades de desenvolvedor Fron-End Júnior
 
 <!--

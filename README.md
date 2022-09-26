@@ -2,10 +2,10 @@
 
 #### Sou programdor Fron-end. 
 
-🌱 Eu atualmente estou aprendendo HTML, CSS, React, JavaScript
-🔭 Atualmente estou em busca de oportunidades de desenvolvedor Fron-End Júnior
+- 🌱 Eu atualmente estou aprendendo HTML, CSS, React, JavaScript
+- 🔭 Atualmente estou em busca de oportunidades de desenvolvedor Fron-End Júnior
 
-
+<!--
 **alexandrericci/alexandrericci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+-->
